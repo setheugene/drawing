@@ -8,11 +8,11 @@ window.onload = function() {
 
 
 
-var x = 300;
+var x = 30;
 var y = 400;
 var dx = 2;
 var dy = 0;
-var radius = 150;
+var radius = 15;
 
 function circleOne() {
     requestAnimationFrame(circleOne);
@@ -40,7 +40,7 @@ y += dy;
 
 circleOne();
 
-    var x2 = 500;
+    var x2 = 50;
     var y2 = 400;
     var dx2 = 2;
     var dy2 = 0;
@@ -70,7 +70,7 @@ circleOne();
     circleTwo();
 
 
-    var x3 = 700;
+    var x3 = 70;
     var y3 = 400;
     var dx3 = 2;
     var dy3 = 0;
@@ -100,7 +100,7 @@ circleOne();
     circleThree();
 
 
-    var x4 = 900;
+    var x4 = 90;
     var y4 = 400;
     var dx4 = 2;
     var dy4 = 0;
@@ -131,7 +131,7 @@ circleOne();
     circleFour();
 
 
-    var x5 =1100;
+    var x5 =110;
     var y5 = 400;
     var dx5 = 2;
     var dy5 = 0;
@@ -162,7 +162,7 @@ circleOne();
 
 
 
-    var x6 = 1300;
+    var x6 = 130;
     var y6 = 400;
     var dx6 = 2;
     var dy6 = 0;
@@ -193,7 +193,7 @@ circleOne();
 
 
 
-    var x7 = 1500;
+    var x7 = 150;
     var y7 = 400;
     var dx7 = 2;
     var dy7 =0;
